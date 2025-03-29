@@ -1,0 +1,1 @@
+TrendPulse : Created for build AI agent for analyze trend on social media and do post , reelas on that
